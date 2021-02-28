@@ -4,7 +4,6 @@ import java.util.Arrays;
 import java.util.Scanner;
 /*
 *Assignment 7. Book Recommender 
-* Destinee Sheung
 * Oct 19th 2020
 */
 
